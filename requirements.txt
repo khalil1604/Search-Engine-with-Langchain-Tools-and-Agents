@@ -1,0 +1,10 @@
+langchain
+python-dotenv
+ipykernel
+langchain-community
+wikipedia
+arxiv
+langchain-text-splitters
+duckdb
+langchain-groq
+duckduckgo-search
