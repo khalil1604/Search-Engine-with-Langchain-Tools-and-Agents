@@ -1,5 +1,5 @@
 # Search-Engine-with-Langchain-Tools-and-Agents
-An interactive chatbot application using Streamlit that allows users to chat with an agent capable of searching the web, querying Arxiv, and Wikipedia.
+A chatbot application using Streamlit that allows users to chat with an agent capable of searching the web, querying Arxiv, and Wikipedia.
 
 ## Features
 - **Real-time Web Search**.
